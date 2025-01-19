@@ -1,5 +1,2 @@
-### Hi bros!  
-I'm a student comes from China.  
-My favourite language is `Python` and I'm working on an app to monitoring files event on the computer.  
-I like Minecraft,TF2 and Raft.  
-So have a look around! :P
+### 这个入早就似了。  
+现在还会偶尔传一些自己写的东西，但是非常偶尔，跑去打电子游戏去了谢谢大家。
